@@ -6,7 +6,9 @@
     "keystone": "~0.2.6",
     "async": "~0.2.9",
     "underscore": "~1.5.2",
-    "dotenv": "0.0.3"
+    "dotenv": "0.0.3",
+    "logfmt": "^0.21.0",
+    "express": "^3.4.8"
   },
   "engines": {
     "node": ">=0.10.22",
