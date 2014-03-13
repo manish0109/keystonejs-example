@@ -1,9 +1,9 @@
 keystone-example
 ================
 
-Example App build using Keystone JS framework on top of NodeJs, ExpressJs and MongoDB
+Example App build using KeystoneJS framework on top of NodeJs, ExpressJs and MongoDB
 
-A Node app built with Keystone, MongoDB and Jade. For demonstration purposes and a tutorial.
+A Node app built with KeystoneJS, MongoDB and Jade. For demonstration purposes and a tutorial.
 
 Node provides the RESTful API. Jade provides the frontend and accesses the API. MongoDB stores like a hoarder.
 
