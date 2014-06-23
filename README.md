@@ -15,7 +15,7 @@ Node provides the RESTful API. Jade provides the frontend and accesses the API. 
 
 1. Clone the repository
 2. Install the application: `npm install`
-3. Start the server: `node exoress.js`
+3. Start the server: `node keystone.js`
 4. View in browser at `http://localhost:3000`
 
 Please let me know in case of any issue 
